@@ -78,6 +78,14 @@ def checkout_cart(request):
                 status_message="Unable to process. No items in cart"
                 messages.error(request,status_message)
     return redirect('cart')
+
+@login_required(login_url='account')
+def show_orders(request):
+    user=request.user
+    customer=user.customer_profile
+    all_orders=Order.objects.filter(owner=customer).exclude(order_status=Order.CART_STAGE)
+    context={'orders':all_orders}
     
+    return render(request,'orders.html',context)
                 
             
