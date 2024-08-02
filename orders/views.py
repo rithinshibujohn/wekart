@@ -12,6 +12,7 @@ from django.contrib import messages
 # from products.models import Product
 # Create your views here.
 
+@login_required(login_url='account')
 def show_cart(request):
     user=request.user
     customer=user.customer_profile
@@ -29,6 +30,7 @@ def remove_item_from_cart(request,pk):
         item.delete()
     return redirect('cart')
 
+@login_required(login_url='account')
 def add_to_cart(request):
     if request.POST:
         user=request.user

@@ -72,7 +72,7 @@ p{
     background: #563434;
 }
 .header{
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff, #98fffc);
 }
 .header .row{
     margin-top: 70px;
@@ -137,7 +137,7 @@ h4{
 }
 /* Offer */
 .offer{
-    background: radial-gradient(#fff, #ffd6d6);
+    background: radial-gradient(#fff, #62abf0);
     margin-top: 80px;
     padding: 30px 0;
 }
@@ -499,3 +499,41 @@ form a{
         display: none;
     }
 }
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    padding-left: 60px;
+}
+
+.search-input {
+    width: 500px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 25px 0 0 25px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    height: 35px;
+}
+
+.search-input:focus {
+    border-color: #007BFF;
+}
+
+.search-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 0 25px 25px 0;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+

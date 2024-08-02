@@ -1,7 +1,13 @@
 {% load static %}
 <div class="navbar">
     <div class="logo">
-        <a href="index.html"><img src="{% static 'images/logo.png' %}" alt="logo" width="125px"></a>
+        <a href="{% url 'home' %}"><img src="{% static 'images/logo.png' %}" alt="logo" width="125px"></a>
+    </div>
+    <div>
+    <form action="{% url 'product_search' %}" method="get" class="search-form">
+        <input type="text" name="query" class="search-input" placeholder="Search products...">
+        <button type="submit" class="search-button">Search</button>
+    </form>       
     </div>
     <nav>
         <ul id="MenuItems">
@@ -11,8 +17,10 @@
 
             <li><a href="{% url 'account' %}">Account</a></li>
             {% else %}
+            <li>Hello, {{ username }}!</li>
             <li><a href="{% url 'orders' %}">Orders</a></li>
             <li><a href="{% url 'logout' %}">Logout</a></li>
+        
             {% endif %}
         </ul>
     </nav>
