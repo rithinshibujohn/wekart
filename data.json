@@ -1,0 +1,1921 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-07-05T05:40:58.324Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Mi X Series 125 cm (50 inch) Ultra HD (4K) LED Smart Google TV with 4K Dolby Vision | HDR 10 | Dolby Audio |,DTS X | DTS Virtual: X | Vivid Picture Engine",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-07-05T05:41:17.010Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Mi X Series 125 cm (50 inch) Ultra HD (4K) LED Smart Google TV with 4K Dolby Vision | HDR 10 | Dolby Audio |,DTS X | DTS Virtual: X | Vivid Picture Engine",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-07-05T06:48:36.539Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Mi X Series 125 cm (50 inch) Ultra HD (4K) LED Smart Google TV with 4K Dolby Vision | HDR 10 | Dolby Audio |,DTS X | DTS Virtual: X | Vivid Picture Engine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-07-05T06:51:08.867Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Mi X Series 125 cm (50 inch) Ultra HD (4K) LED Smart Google TV with 4K Dolby Vision | HDR 10 | Dolby Audio |,DTS X | DTS Virtual: X | Vivid Picture Engine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-07-05T06:57:57.111Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "wekartproduct",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Price\", \"Description\", \"Image\", \"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-07-05T06:58:26.214Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "wekartproduct",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-07-05T06:58:37.838Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "wekartproduct2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-07-05T06:58:55.376Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "wekartproduct3",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-07-05T07:00:54.822Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "wekartproduct4",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-07-05T07:01:14.464Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "wekartproduct5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-07-05T07:07:04.833Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "wekartproduct5",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-07-05T09:02:56.015Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Dell [Smartchoice 14 Thin & Light Laptop, Intel 12th Gen Core i5-1235U/8GB/512GB SSD/14.0\" (35.56cm) FHD/Intel UHD Graphics/Spill-Resistant Keyboard/Windows 11 + MSO'21/Black/15 Month McAfee, 1.48kg",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-07-22T11:19:55.016Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Dell [Smartchoice 14 Thin & Light Laptop, Intel 12th Gen Core i5-1235U/8GB/512GB SSD/14.0\" (35.56cm) FHD/Intel UHD Graphics/Spill-Resistant Keyboard/Windows 11 + MSO'21/Black/15 Month McAfee, 1.48kg",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-07-22T11:22:19.935Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "wekartproduct5",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-07-22T11:22:28.520Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "wekartproduct4",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-07-22T11:22:34.915Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "wekartproduct",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-07-22T11:22:41.021Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "wekartproduct2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-07-22T11:24:17.425Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "wekartproduct",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-07-22T11:24:26.736Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "wekartproduct2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-07-22T11:24:39.301Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "wekartproduct3",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-07-22T11:25:33.686Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Dell [Smartchoice 14 Thin & Light Laptop, Intel 12th Gen Core i5-1235U/8GB/512GB SSD/14.0\" (35.56cm)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-07-22T11:26:05.435Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Dell [Smartchoice 14 Thin & Light Laptop, Intel 12th Gen Core i5-1235U/8GB/512GB SSD/14.0\" (35.56cm)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-07-22T11:26:12.575Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "wekartproduct2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Priority\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-07-23T10:53:10.135Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Atomberg Renesa Alpha Ceiling Fan 1200mm Black",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-07-29T12:00:57.669Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "wekartproduct",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-07-29T12:04:41.005Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "iQOO Z9 Lite 5G (Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The box",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-07-29T12:06:52.623Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Apple iPhone 15 (128 GB) - Black",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-07-31T05:29:17.494Z",
+    "user": 2,
+    "content_type": 4,
+    "object_id": "7",
+    "object_repr": "beneapen",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\", \"Superuser status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-07-31T19:50:09.138Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "order - 5 - kelvinmath",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Order status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-08-05T06:52:40.699Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Philips 12W Emergency Bulb | Rechargeable",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-08-05T06:54:55.674Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Panasonic 9 Watt LED Bulb, B22 Base 9W Bulb Light (Pack of 4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-08-05T06:56:00.107Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Halonix 2 in 1 All Rounder 9W,0.5W B22D Led Bulb Cool White & Off White",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add customer",
+    "content_type": 7,
+    "codename": "add_customer"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change customer",
+    "content_type": 7,
+    "codename": "change_customer"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete customer",
+    "content_type": 7,
+    "codename": "delete_customer"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view customer",
+    "content_type": 7,
+    "codename": "view_customer"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add order",
+    "content_type": 8,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change order",
+    "content_type": 8,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete order",
+    "content_type": 8,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view order",
+    "content_type": 8,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add ordered item",
+    "content_type": 9,
+    "codename": "add_ordereditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change ordered item",
+    "content_type": 9,
+    "codename": "change_ordereditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete ordered item",
+    "content_type": 9,
+    "codename": "delete_ordereditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view ordered item",
+    "content_type": 9,
+    "codename": "view_ordereditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 10,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 10,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 10,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 10,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site setting",
+    "content_type": 11,
+    "codename": "add_sitesetting"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site setting",
+    "content_type": 11,
+    "codename": "change_sitesetting"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site setting",
+    "content_type": 11,
+    "codename": "delete_sitesetting"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site setting",
+    "content_type": 11,
+    "codename": "view_sitesetting"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$UDsrN5sianxf0jYXtRf4ik$zVm2keHPurE298uplEOGzxs9SC9R1MXVjtP7drJIkJE=",
+    "last_login": "2024-07-05T05:35:42.174Z",
+    "is_superuser": true,
+    "username": "ekartuser",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-07-05T05:34:47.494Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$USFdKSQjVAJ3SkW9pY2xJ7$zj28DULi1xKpQ6le4i9yNye3creJGc6k9l2MmolJxQ4=",
+    "last_login": "2024-08-05T06:51:27.567Z",
+    "is_superuser": true,
+    "username": "wekartadmin",
+    "first_name": "",
+    "last_name": "",
+    "email": "wekart@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-07-22T11:16:06.046Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "password",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "rithinvala",
+    "first_name": "",
+    "last_name": "",
+    "email": "rithinshibujohn@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-30T10:26:06.772Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "password",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "radhika",
+    "first_name": "",
+    "last_name": "",
+    "email": "radhika@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-30T10:39:16.489Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "password",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "kelvin",
+    "first_name": "",
+    "last_name": "",
+    "email": "kelvin@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-31T04:25:29.406Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 6,
+  "fields": {
+    "password": "password",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "arjunc",
+    "first_name": "",
+    "last_name": "",
+    "email": "arjunc@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-31T04:31:02.312Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$wm32qc0AayN6Uu1s4UW1wg$8saXTXDBFlB3Znhs//Ql1odLcKzNcSnsmQdXaJGPugg=",
+    "last_login": "2024-07-31T05:52:55.769Z",
+    "is_superuser": true,
+    "username": "beneapen",
+    "first_name": "",
+    "last_name": "",
+    "email": "ben@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-07-31T05:25:12Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$JlZO5FVaaEK82XbroaJNu0$P39ACidxiCIyrQSYkx3Ksp/KFIyLJ6qGkxOWx3MIApw=",
+    "last_login": "2024-07-31T12:19:28.700Z",
+    "is_superuser": false,
+    "username": "plutonavee",
+    "first_name": "",
+    "last_name": "",
+    "email": "absd@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-31T05:40:18.949Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$BZAupN09QSEGeUJJ8cmR4N$tuFvJCVlsCK6vXGebx7X/0DNsI3JRXR0nLe/olDYfcY=",
+    "last_login": "2024-07-31T09:43:17.213Z",
+    "is_superuser": false,
+    "username": "shibujohn",
+    "first_name": "",
+    "last_name": "",
+    "email": "shibu@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-31T05:54:31.891Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 10,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$ePriSRWI36EXx79pqjcNzM$IsbTlSTkkK+ijxVr9wJ+evzC7m22WZNR8LddkBEClx0=",
+    "last_login": "2024-07-31T09:54:55.298Z",
+    "is_superuser": false,
+    "username": "uranusnave",
+    "first_name": "",
+    "last_name": "",
+    "email": "assad@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-31T09:54:29.269Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 11,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$DTc2tpux4oM8bLFsJiqqx3$XgThhhgRXMWEjxS+gTsfSX3QABTydqea4P9XHcxH21Q=",
+    "last_login": "2024-07-31T09:58:01.822Z",
+    "is_superuser": false,
+    "username": "saturnnave",
+    "first_name": "",
+    "last_name": "",
+    "email": "sdxfcgvh@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-31T09:57:11.354Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 12,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$Il4rlBwDp5Wiq99uSmzi7a$AFEvyp5eQ7J6G6s3TvWqQ6bMw/alGsuJD5paOtqG8bY=",
+    "last_login": "2024-08-23T05:46:39.042Z",
+    "is_superuser": false,
+    "username": "kelvinmath",
+    "first_name": "",
+    "last_name": "",
+    "email": "kelvin@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-31T12:23:22.860Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$iefdFKNs6ISknYTedq3BBg$kqyPAqfMTpve94J2yGNE4K/KZoCIGyqV+7Z4utDFe2Q=",
+    "last_login": "2024-08-01T05:40:05.148Z",
+    "is_superuser": false,
+    "username": "davean",
+    "first_name": "",
+    "last_name": "",
+    "email": "davean@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-01T05:39:42.443Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 14,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$kZX4LbhxHDGmZYVIZQjtkT$hzCnlQD6+ysVZ7nOCRKN0GL49qaX5gzookASpW1QJa8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "saturn ",
+    "first_name": "",
+    "last_name": "",
+    "email": "saturn@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-06T06:49:08.336Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "customers",
+    "model": "customer"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "orders",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "orders",
+    "model": "ordereditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "products",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "themes",
+    "model": "sitesetting"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "39mr712zkrx0lb70c1y0diomzofha6zz",
+  "fields": {
+    "session_data": "e30:1sapYa:OpB-ZeDwQeLT-z45IfO7AipghH0ul8xl1bZSGt0ltKs",
+    "expire_date": "2024-08-19T04:42:52.204Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "3kij35yc6meqx86athn1getp00ev9jrr",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxJ96Ekj5nsNa7Ng4gW4qTCnF3EikFtG9m3lt43NbstxYXP7O4Ci0uv1tAesZyAH5guVdJtazLHOShyJM2OVWOr9vp_h1kbHmvleNkkybFQQFZZDtwp5WGZE2HqudEnWNAwEhmAO0Cw96MDnDsg0ni8wXw6Tgq:1sZFKL:54uv0wWQSXNeVDMVBuGcjuRh8v9uzikJ6JcT6jrRU5Y",
+    "expire_date": "2024-08-14T19:49:37.029Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "61bvyl45mvajcy5j1wpx1yyhgpnfg6me",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxJ96Ekj5nsNa7Ng4gW4qTCnF3EikFtG9m3lt43NbstxYXP7O4Ci0uv1tAesZyAH5guVdJtazLHOShyJM2OVWOr9vp_h1kbHmvleNkkybFQQFZZDtwp5WGZE2HqudEnWNAwEhmAO0Cw96MDnDsg0ni8wXw6Tgq:1sZ9jm:fI28QdzaLEaEcrx-kteTOr6OlGy46oZaTCo9xUQiFU8",
+    "expire_date": "2024-08-14T13:51:30.659Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8cc3eqkyd7oc3if7z58uu59po6ar5ew6",
+  "fields": {
+    "session_data": "e30:1sapcw:OKeGHwXh_tkN0xBJWQujNII9Zh3hqwtHta7htnyJcPA",
+    "expire_date": "2024-08-19T04:47:22.120Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8ddaxf0oprngaij61lryaxkca3i825d1",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAUBe_iGlnxFv9Q0nOGyH8xCSBbipMKcXeIlALaNzPvpca0rdO4NVnGmdVZGatOvyMmekjZCd9TuVVNtazLjHpX9EGbvlaW5-Vw_w6m1KZvTRAZIEZ03JF3iK7nDMLZUMcxivHe2j4QZHZigDL2g0cYyAWxHAb1_gAa0jiC:1sZEuy:ewByC60zwjjwKOTJAyuk4RRsazG-q9RJjR0civgoZu8",
+    "expire_date": "2024-08-14T19:23:24.662Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qayfco93iypnzf8j0homt3pulccr9b75",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlle_xJT0nMGa727JgGUSHFSIe4OkVJA-2bmvVTGbR3y1mTJI6uzAnX63QrSQ6Yd8B2n26xpntZlLHpX9EGbvs4sz8vh_h0M2IZvXchgsNzbYoJI6lJiRq7gfEzcewYgCSZCjBRRPHbWgqtEzoMNzlf1_gDvtjfG:1sPbbi:6iE_T0u5OCqejdPunrtceGxVTe22rvO7buhNm3oh3OI",
+    "expire_date": "2024-07-19T05:35:42.184Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "svzrjjgdnar5ylmd142gv375qdn0miql",
+  "fields": {
+    "session_data": "e30:1sapZ0:SKEMWdL9edXzX5M7zBr3qn2QznYRiLOfG4oZLk2rIAE",
+    "expire_date": "2024-08-19T04:43:18.251Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vg4kksikqo15ac5g8do94ptnhs1z1zqy",
+  "fields": {
+    "session_data": "e30:1sZq61:2jmDP32mv3bOPhNSxU9fgfsG2zjKi7gdOdza00n6hOw",
+    "expire_date": "2024-08-16T11:05:17.918Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 1,
+  "fields": {
+    "name": "",
+    "address": "Valayil",
+    "user": 3,
+    "phone": "9400280508",
+    "delete_status": 1,
+    "created_at": "2024-07-30T10:26:07.297Z",
+    "updated_at": "2024-07-30T10:26:07.297Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 2,
+  "fields": {
+    "name": "",
+    "address": "radhika",
+    "user": 4,
+    "phone": "1234567890",
+    "delete_status": 1,
+    "created_at": "2024-07-30T10:39:16.554Z",
+    "updated_at": "2024-07-30T10:39:16.554Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 3,
+  "fields": {
+    "name": "",
+    "address": "kelvin",
+    "user": 5,
+    "phone": "1234567890",
+    "delete_status": 1,
+    "created_at": "2024-07-31T04:25:29.598Z",
+    "updated_at": "2024-07-31T04:25:29.598Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 4,
+  "fields": {
+    "name": "",
+    "address": "arjun",
+    "user": 6,
+    "phone": "1234567890",
+    "delete_status": 1,
+    "created_at": "2024-07-31T04:31:02.542Z",
+    "updated_at": "2024-07-31T04:31:02.542Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 5,
+  "fields": {
+    "name": "saturnnave",
+    "address": "sdxfcgvhbj",
+    "user": 11,
+    "phone": "0123456789",
+    "delete_status": 1,
+    "created_at": "2024-07-31T09:57:12.520Z",
+    "updated_at": "2024-07-31T09:57:12.520Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 6,
+  "fields": {
+    "name": "kelvinmath",
+    "address": "kelvin",
+    "user": 12,
+    "phone": "1234567890",
+    "delete_status": 1,
+    "created_at": "2024-07-31T12:23:23.748Z",
+    "updated_at": "2024-07-31T12:23:23.748Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 7,
+  "fields": {
+    "name": "davean",
+    "address": "davean",
+    "user": 13,
+    "phone": "1234567890",
+    "delete_status": 1,
+    "created_at": "2024-08-01T05:39:43.399Z",
+    "updated_at": "2024-08-01T05:39:43.399Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 8,
+  "fields": {
+    "name": "saturn ",
+    "address": "saturn hou",
+    "user": 14,
+    "phone": "1234567890",
+    "delete_status": 1,
+    "created_at": "2024-08-06T06:49:09.290Z",
+    "updated_at": "2024-08-06T06:49:09.290Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 1,
+  "fields": {
+    "order_status": 0,
+    "owner": 5,
+    "delete_status": 1,
+    "created_at": "2024-07-31T09:58:13.927Z",
+    "updated_at": "2024-07-31T09:58:13.927Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 2,
+  "fields": {
+    "order_status": 1,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-07-31T12:23:47.276Z",
+    "updated_at": "2024-07-31T13:34:29.881Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 3,
+  "fields": {
+    "order_status": 1,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-07-31T13:34:30.043Z",
+    "updated_at": "2024-07-31T13:37:48.290Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 4,
+  "fields": {
+    "order_status": 1,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-07-31T13:37:48.459Z",
+    "updated_at": "2024-07-31T13:50:52.634Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 5,
+  "fields": {
+    "order_status": 3,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-07-31T13:50:53.925Z",
+    "updated_at": "2024-07-31T19:50:09.138Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 6,
+  "fields": {
+    "order_status": 1,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-08-01T05:29:27.956Z",
+    "updated_at": "2024-08-01T05:29:31.763Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 7,
+  "fields": {
+    "order_status": 1,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-08-01T05:29:31.800Z",
+    "updated_at": "2024-08-06T06:54:29.718Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 8,
+  "fields": {
+    "order_status": 1,
+    "owner": 7,
+    "delete_status": 1,
+    "created_at": "2024-08-01T05:40:25.802Z",
+    "updated_at": "2024-08-01T05:40:31.646Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 9,
+  "fields": {
+    "order_status": 0,
+    "owner": 7,
+    "delete_status": 1,
+    "created_at": "2024-08-01T05:40:31.691Z",
+    "updated_at": "2024-08-01T05:40:31.691Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 10,
+  "fields": {
+    "order_status": 1,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-08-06T06:54:29.777Z",
+    "updated_at": "2024-08-23T05:46:49.836Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 11,
+  "fields": {
+    "order_status": 0,
+    "owner": 6,
+    "delete_status": 1,
+    "created_at": "2024-08-23T05:46:49.884Z",
+    "updated_at": "2024-08-23T05:46:49.884Z"
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 1,
+  "fields": {
+    "product": 8,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 2,
+  "fields": {
+    "product": 8,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 3,
+  "fields": {
+    "product": 8,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 4,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 5,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 6,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 7,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 8,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 9,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 10,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 11,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 12,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 13,
+  "fields": {
+    "product": 8,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 14,
+  "fields": {
+    "product": 8,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 15,
+  "fields": {
+    "product": 8,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 16,
+  "fields": {
+    "product": 8,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 17,
+  "fields": {
+    "product": 9,
+    "quantity": 11,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 18,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 19,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 20,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 21,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 22,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 23,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 24,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 25,
+  "fields": {
+    "product": 4,
+    "quantity": 2,
+    "owner": 1
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 28,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 30,
+  "fields": {
+    "product": 7,
+    "quantity": 3,
+    "owner": 2
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 31,
+  "fields": {
+    "product": 7,
+    "quantity": 1,
+    "owner": 3
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 32,
+  "fields": {
+    "product": 8,
+    "quantity": 1,
+    "owner": 4
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 33,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 6
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 35,
+  "fields": {
+    "product": 4,
+    "quantity": 1,
+    "owner": 8
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 36,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 9
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 37,
+  "fields": {
+    "product": 3,
+    "quantity": 1,
+    "owner": 9
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 38,
+  "fields": {
+    "product": 8,
+    "quantity": 11,
+    "owner": 7
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 39,
+  "fields": {
+    "product": 9,
+    "quantity": 1,
+    "owner": 7
+  }
+},
+{
+  "model": "orders.ordereditem",
+  "pk": 40,
+  "fields": {
+    "product": 11,
+    "quantity": 1,
+    "owner": 10
+  }
+},
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "title": "wekartproduct2",
+    "price": 25.0,
+    "description": "Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+    "image": "media/buy-1.jpg",
+    "priority": 1,
+    "delete_status": 1,
+    "created_at": "2024-07-05T05:40:58.317Z",
+    "updated_at": "2024-07-22T11:26:12.565Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "title": "wekartproduct3",
+    "price": 25.0,
+    "description": "Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+    "image": "media/buy-3.jpg",
+    "priority": 4,
+    "delete_status": 1,
+    "created_at": "2024-07-05T06:58:55.373Z",
+    "updated_at": "2024-07-22T11:24:39.285Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "title": "wekartproduct4",
+    "price": 25.0,
+    "description": "Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+    "image": "media/exclusive.png",
+    "priority": 3,
+    "delete_status": 1,
+    "created_at": "2024-07-05T07:00:54.819Z",
+    "updated_at": "2024-07-22T11:22:28.516Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "title": "wekartproduct5",
+    "price": 566.0,
+    "description": "Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+    "image": "media/product-2.jpg",
+    "priority": 2,
+    "delete_status": 1,
+    "created_at": "2024-07-05T07:01:14.460Z",
+    "updated_at": "2024-07-22T11:22:19.925Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "title": "Dell [Smartchoice 14 Thin & Light Laptop, Intel 12th Gen Core i5-1235U/8GB/512GB SSD/14.0\" (35.56cm)",
+    "price": 45490.0,
+    "description": "About this item\r\nProcessor: Intel Core i5-1235U 12th Generation (up to 4.40 GHz, 12MB 10 Cores) RAM & Storage: 8 GB, 1 x 8 GB, DDR4, 2666 MHz, (2 DIMM Slots, Expandable upto 16GB) & 512GB SSD;Software: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 with lifetime validity| McAfee Multi-Device Security 15-month subscription\r\nGraphics & Keyboard: Integrated Onboard Graphics & Standard Keyboard // Display: 14.0\" FHD WVA AG Narrow Border 250 units;Ports: 1 USB 3.2 Gen 1 Type-C port with DisplayPort 1.4, 1 USB 3.2 Gen 1 port, 1 USB 2.0 port, 1 Headset jack, 1 HDMI 1.4 port*,1 Flip-Down RJ-45 port 10/100/1000 Mbps, 1 SD 3.0 card slot\r\nFeatures- T�V Rheinland certified Dell ComfortView to reduce Harmful blue light: 15 Months McAfee antivirus subscription: Waves Maxx Audio tuned speakers and microphones optimize audio: Hardware-based TPM 2.0 security chip",
+    "image": "media/41MjjnjKU-L._SX300_SY300_QL70_FMwebp_.webp",
+    "priority": 6,
+    "delete_status": 1,
+    "created_at": "2024-07-05T09:02:56.009Z",
+    "updated_at": "2024-07-22T11:26:05.435Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "title": "Atomberg Renesa Alpha Ceiling Fan 1200mm Black",
+    "price": 3500.0,
+    "description": ">>Warranty: 3 years on-site on the product (Call toll-free n.o.: 844 844 9442)\r\n>>Super Energy Efficient BLDC Motor: Consumes only 32W on the highest Speed\r\n>>Save up to Rs. 1500 per year on your electricity bill with each fan.\r\n>>Designer Look & easy to clean",
+    "image": "media/41MjjnjKU-L._SX300_SY300_QL70_FMwebp__D1Tu9J5.webp",
+    "priority": 10,
+    "delete_status": 1,
+    "created_at": "2024-07-23T10:53:10.070Z",
+    "updated_at": "2024-07-23T10:53:10.070Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 8,
+  "fields": {
+    "title": "iQOO Z9 Lite 5G (Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The box",
+    "price": 11000.0,
+    "description": "PROCESSOR : Powered by MediaTek Dimensity 6300 5G with 414,564 AnTuTu Score, 2.4Hz Clock Speed and Octa-core CPU architecture which gives you effortless multi-tasking experience.\r\nSMOOTH 5G EXPERIENCE : Experience the future of lightning-fast speed and seamless connectivity, allowing you to enjoy superfast 5G video streaming, uninterrupted video calls, and enhanced connectivity. Z9 Lite also has VonR Support & Dual Sim 5G capability.",
+    "image": "media/61WZicNcoL._SX679_.jpg",
+    "priority": 0,
+    "delete_status": 1,
+    "created_at": "2024-07-29T12:04:40.868Z",
+    "updated_at": "2024-07-29T12:04:40.868Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "title": "Apple iPhone 15 (128 GB) - Black",
+    "price": 69000.0,
+    "description": "Apple iPhone 15 (128 GB) - Black",
+    "image": "media/71657TiFeHL._SX679_.jpg",
+    "priority": 0,
+    "delete_status": 1,
+    "created_at": "2024-07-29T12:06:52.618Z",
+    "updated_at": "2024-07-29T12:06:52.618Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "title": "Philips 12W Emergency Bulb | Rechargeable",
+    "price": 63.0,
+    "description": "Philips 12W Emergency Bulb | Rechargeable",
+    "image": "media/61JiHMN4fkL._AC_UF10001000_QL80_.jpg",
+    "priority": 7,
+    "delete_status": 1,
+    "created_at": "2024-08-05T06:52:40.694Z",
+    "updated_at": "2024-08-05T06:52:40.694Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 11,
+  "fields": {
+    "title": "Panasonic 9 Watt LED Bulb, B22 Base 9W Bulb Light (Pack of 4)",
+    "price": 200.0,
+    "description": "Panasonic 9 Watt LED Bulb, B22 Base 9W Bulb Light",
+    "image": "media/717-cMUiMpL._AC_UF8941000_QL80_.jpg",
+    "priority": 0,
+    "delete_status": 1,
+    "created_at": "2024-08-05T06:54:55.671Z",
+    "updated_at": "2024-08-05T06:54:55.671Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 12,
+  "fields": {
+    "title": "Halonix 2 in 1 All Rounder 9W,0.5W B22D Led Bulb Cool White & Off White",
+    "price": 69.0,
+    "description": "Halonix 2 in 1 All Rounder 9W,0.5W B22D Led Bulb Cool White & Off White",
+    "image": "media/61aoZQTBBNL._AC_UF10001000_QL80_.jpg",
+    "priority": 0,
+    "delete_status": 1,
+    "created_at": "2024-08-05T06:56:00.104Z",
+    "updated_at": "2024-08-05T06:56:00.104Z"
+  }
+}
+]

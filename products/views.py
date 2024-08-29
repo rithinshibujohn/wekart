@@ -1,7 +1,8 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from . models import Product
 from django.core.paginator import Paginator
 from  .forms import ProductSearchForm
+from django.db.models import Q 
 
 # Create your views here.
 def index(request):
@@ -47,3 +48,25 @@ def search_view(request):
         products = products.filter(title__icontains=query)
 
     return render(request, 'search_result.html', {'form': form, 'products': products})
+
+def product_detail(request, pk):
+    product = Product.objects.get(pk=pk)
+    product_title_words = product.title.split()
+
+    # Build the query to prioritize similar products
+    similar_products_query = Q()
+    for word in product_title_words:  # prioritize first three words
+        similar_products_query |= Q(title__icontains=word)
+
+    similar_products = Product.objects.filter(
+        similar_products_query & ~Q(pk=pk)
+    ).distinct()[:4]  # Limit the number of similar products displayed
+
+    context = {
+        'product': product,
+        'similar_products': similar_products
+    }
+    return render(request, 'product_details.html', context)
+
+def terms(request):
+    return render(request,'terms.html')

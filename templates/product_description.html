@@ -23,4 +23,21 @@
             <p>{{ product.description }}</p>
         </div>
     </div>
+    <h2>Similar Products</h2>
+<div class="similar-products">
+    {% if similar_products %}
+        {% for similar_product in similar_products %}
+            <div class="product-item">
+                <h3>{{ similar_product.title }}</h3>
+                <img src="{{ similar_product.image.url }}" alt="{{ similar_product.title }}">
+                <p>Price: ${{ similar_product.price }}</p>
+                <a href="{% url 'product_detail' similar_product.pk %}">View Product</a>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>No similar products found.</p>
+    {% endif %}
+</div>
+
+</div>
 </div>

@@ -24,6 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-evr*s$7!o#83w2f!ka!8m4)5u-pq)i)nbgtnnd71yt&abv+ffl'
 
 # SECURITY WARNING: don't run with debug turned on in production!
+
+#  Davean#123@skyway----superbase p/w
+
 DEBUG = True
 
 ALLOWED_HOSTS = []
@@ -79,13 +82,27 @@ WSGI_APPLICATION = 'wekartproject.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
+#  python manage.py dumpdata --indent 2 > data.json
+# python manage.py loaddata data.json
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'postgres',
+        'USER': 'postgres.ntunykpcrmzvxnifhirw',
+        'PASSWORD': 'Davean#123@skyway',
+        'HOST': 'aws-0-ap-south-1.pooler.supabase.com',  # Set to the PostgreSQL server address if not local
+        'PORT': '6543',       # Default PostgreSQL port
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators

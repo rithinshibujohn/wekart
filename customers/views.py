@@ -42,10 +42,8 @@ def show_account(request):
             login(request,user)
             print('login successsfull')
             
-        context = {}
-        if request.user.is_authenticated:
-            context['name'] = request.user.username
-            return redirect('home',context)
+    
+            return redirect('home')
         else:
             messages.error(request,"Invalid User Credentials")
     return render(request,'account.html')
