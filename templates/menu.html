@@ -1,7 +1,7 @@
 {% load static %}
 <div class="navbar">
     <div class="logo">
-        <a href="{% url 'home' %}"><img src="{% static 'images/logo.png' %}" alt="logo" width="125px"></a>
+        <a href="{% url 'home' %}"><img src="https://wekartstatic.vercel.app/images/logo.png" alt="logo" width="125px"></a>
     </div>
     <div>
     <form action="{% url 'product_search' %}" method="get" class="search-form">
@@ -36,6 +36,6 @@
             {% endif %}
         </ul>
     </nav>
-    <a href="{% url 'cart' %}"><img src="{% static 'images/cart.png' %}" width="30px" height="30px"></a>
-    <img src="{% static 'images/menu.png' %}" class="menu-icon" onclick="menutoggle()">
+    <a href="{% url 'cart' %}"><img src="https://wekartstatic.vercel.app/images/cart.png" width="30px" height="30px"></a>
+    <img src="https://wekartstatic.vercel.app/images/menu.png" class="menu-icon" onclick="menutoggle()">
 </div>
